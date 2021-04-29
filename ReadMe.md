@@ -13,6 +13,9 @@ Download dcs_clock.zip from either [Cemetech](https://www.cemetech.net/downloads
 
 ### Credits:
 TIny_Hacker, who wrote the program
+
 BioHazard, who fixed my stupid bug and suggested ideas
+
 Kerm Martian, for [SourceCoder3](www.cemetech.net/sc) which I used to make the icons needed for the program
+
 LogicalJoe, for optimization to reduce the program to < 500 bytes
